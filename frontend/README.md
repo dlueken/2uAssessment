@@ -34,3 +34,4 @@ As a member of the 2ULaundry Accounting Team I need to see a list of invoices th
 3. Vendor Address on details (selected) card wraps oddly and should be fixed. 
 4. UI improvements in general
 5. Build test case.  More testing, edge cases, multi user, etc.
+6. Address NPM install warnings.

@@ -49,3 +49,4 @@ The following is a sample Invoice request that will be submitted to the API endp
 1. Very little to no data validation is done.  Not very fault tolerant.
 2. Does not handle exceptions.
 3. Build test case.  More testing, edge cases, multi user, etc.
+4. Address NPM install warnings.
