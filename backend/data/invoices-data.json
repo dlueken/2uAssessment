@@ -1,0 +1,32 @@
+[
+  {
+    "invoice_number": "12345",
+    "total": "199.99",
+    "currency": "USD",
+    "invoice_date": "2019-08-17",
+    "due_date": "2019-09-17",
+    "vendor_name": "Acme Cleaners Inc.",
+    "remittance_address": "123 ABC St. Charlotte, NC 28209",
+    "status": "pending"
+  },
+  {
+    "invoice_number": "12346",
+    "total": "99.99",
+    "currency": "USD",
+    "invoice_date": "2020-08-17",
+    "due_date": "2020-09-17",
+    "vendor_name": "Emca Cleaners Inc.",
+    "remittance_address": "123 XYZ St. Junper, SC 19234",
+    "status": "pending"
+  },
+  {
+    "invoice_number": "12347",
+    "total": "100.00",
+    "currency": "USD",
+    "invoice_date": "2022-07-01",
+    "due_date": "2022-09-01",
+    "vendor_name": "Real Clean Guys",
+    "remittance_address": "116 East 3rd Ave, Mitchell, SD 57301",
+    "status": "pending"
+  }
+]
